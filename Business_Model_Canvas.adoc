@@ -38,4 +38,19 @@ Adds {nbsp} +
 Membership Fee {nbsp} +
 - Premium fee to remove in app adds {nbsp} +
 
+## Key Resources 
+
+## Key Partners 
+Developement Team {nbsp} +
+- CMPS 480 Senior Project Members {nbsp} +
+{nbsp} +
+Advisors {nbsp} + 
+- Mark Voortman
+
+## Key Activties 
+
+## Cost
+
+
+
 
