@@ -18,7 +18,8 @@ Advertisers {nbsp} +
 Website {nbsp} +
 - {nbsp} +
 {nbsp} +
-- Mobile App {nbsp} +
+Mobile App {nbsp} +
+- {nbsp} +
 
 ## Customer Relationships
 
