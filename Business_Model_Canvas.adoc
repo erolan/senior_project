@@ -1,7 +1,8 @@
 # Business Model Canvas
 
 
-## What is this document? 
+## What is this document?
+This is a living document giving a high-level view of the business model canvas for the Spring 2020 CMPS 420 group. As the project changes and adapts over time so will this document. All members of the team are encouraged to keep this document up to date and provide feedback over the course of the project. 
 
 
 ## Customer Segments 
@@ -39,6 +40,9 @@ Membership Fee {nbsp} +
 - Premium fee to remove in app adds {nbsp} +
 
 ## Key Resources 
+Technology {nbsp} +
+- Github {nbsp} +
+- Slack {nbsp} +
 
 ## Key Partners 
 Development Team {nbsp} +
@@ -48,6 +52,7 @@ Advisors {nbsp} +
 - Mark Voortman
 
 ## Key Activities 
+
 
 ## Cost
 Technical {nbsp} +
