@@ -19,7 +19,7 @@ Advertisers {nbsp} +
 
 ## Value Proposition
 Users {nbsp} +
-- Besy way to track your calorie intake {nbsp} +
+- Best way to track your calorie intake {nbsp} +
 {nbsp} +
 Advertisers {nbsp} +
 - Reach possible consumers via in app adds
@@ -60,6 +60,9 @@ Advisors {nbsp} +
 - Mark Voortman
 
 ## Key Activities 
+- Creating a working website
+- Creating a working application 
+- Creating a database with calorie information
 
 
 ## Cost
