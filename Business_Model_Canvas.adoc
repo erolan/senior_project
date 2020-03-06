@@ -5,7 +5,7 @@
 
 
 ## Customer Segments 
-Users 
+Users {nbsp} +
 - People who want to monitor thier calorie intake
 - People 
 
