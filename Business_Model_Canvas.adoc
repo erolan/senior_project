@@ -8,6 +8,14 @@ This is a living document giving a high-level view of the business model canvas 
 ## Customer Segments 
 Users {nbsp} +
 - People who want to monitor their calorie intake {nbsp} +
+- People looking to find new take on a diet app {nbsp} +
+- People seeking to learn healthy eating habits {nbsp} +
+
+Advertisers {nbsp} +
+- Companies looking to sell work out equipment {nbsp} +
+- Companies looking to sell meal plans {nbsp} +
+- Companies looking to sell gym memberships {nbsp} +
+
 
 ## Value Proposition
 Users {nbsp} +
