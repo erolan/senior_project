@@ -60,6 +60,7 @@ Advisors {nbsp} +
 - Mark Voortman
 
 ## Key Activities 
+Works in Progress
 - Creating a working website
 - Creating a working application 
 - Creating a database with calorie information
