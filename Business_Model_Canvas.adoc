@@ -50,6 +50,11 @@ Advisors {nbsp} +
 ## Key Activties 
 
 ## Cost
+Technical {nbsp} +
+- Development {nbsp} +
+- Application Maintance {nbsp} +
+- Website Maintance {nbsp} +
+
 
 
 
