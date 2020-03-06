@@ -6,8 +6,11 @@
 
 ## Customer Segments 
 Users {nbsp} +
-- People who want to monitor thier calorie intake
-- People 
+- People who want to monitor thier calorie intake  {nbsp} +
+- People who want to monitor thier calorie intake  {nbsp} +
+- People who want to monitor thier calorie intake  {nbsp} +
+- People who want to monitor thier calorie intake  {nbsp} +
+- People who want to monitor thier calorie intake  {nbsp} +
 
 ##  
 
