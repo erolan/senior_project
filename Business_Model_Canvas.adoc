@@ -5,6 +5,7 @@
 
 
 ## Customer Segments 
+Users {nbsp} +
 - People who want to monitor thier calorie intake  {nbsp} +
 
 ## Value Propostion
