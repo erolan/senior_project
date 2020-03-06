@@ -23,5 +23,18 @@ Mobile App {nbsp} +
 - {nbsp} +
 
 ## Customer Relationships
+Customer Serivce {nbsp} +
+- Website {nbsp} +
+Social Media {nbsp}
+- Twitter {nbsp} +
+- Facebook {nbsp} +
+
+## Customer Relationships
+Adds {nbsp} +
+- In app adds {nbsp} +
+- website adds {nbsp} +
+{nbsp} +
+Membership Fee {nbsp} +
+- Premium fee to remove in app adds {nbsp} +
 
 
