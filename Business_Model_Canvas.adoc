@@ -6,14 +6,14 @@
 
 ## Customer Segments 
 Users {nbsp} +
-- People who want to monitor thier calorie intake  {nbsp} +
+- People who want to monitor their calorie intake {nbsp} +
 
-## Value Propostion
+## Value Proposition
 Users {nbsp} +
 - Besy way to track your calorie intake {nbsp} +
 {nbsp} +
 Advertisers {nbsp} +
-- Reach to more users via our in app adds
+- Reach possible consumers via in app adds
 
 ## Channels
 Website {nbsp} +
@@ -23,7 +23,7 @@ Mobile App {nbsp} +
 - {nbsp} +
 
 ## Customer Relationships
-Customer Serivce {nbsp} +
+Customer Service {nbsp} +
 - Website {nbsp} +
 {nbsp} +
 Social Media {nbsp} +
@@ -41,21 +41,16 @@ Membership Fee {nbsp} +
 ## Key Resources 
 
 ## Key Partners 
-Developement Team {nbsp} +
+Development Team {nbsp} +
 - CMPS 480 Senior Project Members {nbsp} +
 {nbsp} +
 Advisors {nbsp} + 
 - Mark Voortman
 
-## Key Activties 
+## Key Activities 
 
 ## Cost
 Technical {nbsp} +
 - Development {nbsp} +
-- Application Maintance {nbsp} +
-- Website Maintance {nbsp} +
-
-
-
-
-
+- Application maintenance {nbsp} +
+- Website maintenance {nbsp} +
