@@ -71,3 +71,7 @@ Technical {nbsp} +
 - Development {nbsp} +
 - Application maintenance {nbsp} +
 - Website maintenance {nbsp} +
+
+## Document History
+- Ryan Bracalielly created version 1.0 3/5/2020 at 11:49 PM EST
+
